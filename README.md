@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 
 <!-- Daily Dev Card Code-->
-<a href="https://app.daily.dev/syedanasfaaiz"><img src="./devcard.png" width="652" display="inline" alt="Syed Anas Faaiz's Dev Card"/></a>
+<a href="https://app.daily.dev/syedanasfaaiz"><img src="./devcard.png?type=wide&r=uo2" width="652" alt="Syed Anas Faaiz's Dev Card"/></a>
