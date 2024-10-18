@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Daily Dev Card Code-->
+<a href="https://app.daily.dev/syedanasfaaiz"><img src="https://api.daily.dev/devcards/v2/KbpBU03BEdObGRjl8Qt8g.png?type=wide&r=pnk" width="652" alt="Syed Anas Faaiz's Dev Card"/></a>
