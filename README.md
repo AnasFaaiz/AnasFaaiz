@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi Everyone! 👋
+My name is Anas Faaiz. Currently studying at KL University Hyderabad as a CSE Student. 
 
 <!--
 **AnasFaaiz/AnasFaaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
