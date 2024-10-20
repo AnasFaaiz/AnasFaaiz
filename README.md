@@ -36,4 +36,5 @@
 
 
 <!-- Daily Dev Card Code-->
+<h3 align="left">Daily.Dev Card:</h3>
 <a href="https://app.daily.dev/syedanasfaaiz"><img src="./devcard.png?type=wide&r=uo2"  height="400" width="356" align="center" alt="Syed Anas Faaiz's Dev Card"/></a>
