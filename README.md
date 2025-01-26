@@ -8,9 +8,9 @@ With 2 years of coding experience and a portfolio of projects leveraging HTML, C
 
 * 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [syed.anasfaaiz@gmail.com](mailto:syed.anasfaaiz@gmail.com)
-* 🚀  I'm currently working on [EntreLink](http://github.com/AnasFaaiz/EntreLink) and [Learnium](https://github.com/AnasFaaiz/EPICS-projects/tree/main/Smart%20Assignment%20Management%20System)
+* 🚀  I'm currently working on [EntreLink](http://github.com/AnasFaaiz/EntreLink) and LevelUp Realms.
 * 🧠  I'm learning MERN Stack
-* 🤝  I'm open to collaborating on Learnium and EntreLink
+* 🤝  I'm open to collaborating on [EntreLink](http://github.com/AnasFaaiz/EntreLink)
 
 ### Skills
 
