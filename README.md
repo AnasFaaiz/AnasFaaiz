@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on [ACE](https://github.com/AnasFaaiz/ACE)
 
-- 🌱 I’m currently learning **Nextjs, GO, AIML**
-
-- 👯 I’m looking to collaborate on [SenseiBot](https://github.com/AnasFaaiz/SenseiBot)
+- 🌱 I’m currently learning **Nextjs, javascript, dl concepts**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-anasfaaizs-projects.vercel.app/Homepage](https://portfolio-anasfaaizs-projects.vercel.app/Homepage)
 
