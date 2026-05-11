@@ -39,6 +39,8 @@
 
 <a href="https://github.com/AnasFaaiz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasFaaiz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<a href="https://u8views.com/github/AnasFaaiz"><img src="https://u8views.com/api/v1/github/profiles/176373724/views/day-week-month-total-count.svg"></a>
+
 <!-- Daily Dev Card Code-->
 <h3 align="left">Daily.Dev Card:</h3>
 <a href="https://app.daily.dev/syedanasfaaiz"><img src="./devcard.png?type=wide&r=uo2"  height="400" width="356" align="center" alt="Syed Anas Faaiz's Dev Card"/></a>
