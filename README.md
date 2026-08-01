@@ -1,48 +1,162 @@
-<h1 align="center">Hi 👋, I'm Syed Anas Faaiz</h1>
-<h3 align="center">Fullstack Developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anasfaaiz&label=Profile%20views&color=0e75b6&style=flat" alt="anasfaaiz" /> </p>
+```
+ █████╗ ███╗   ██╗ █████╗ ███████╗    ███████╗ █████╗  █████╗ ██╗███████╗
+██╔══██╗████╗  ██║██╔══██╗██╔════╝    ██╔════╝██╔══██╗██╔══██╗██║╚══███╔╝
+███████║██╔██╗ ██║███████║███████╗    █████╗  ███████║███████║██║  ███╔╝
+██╔══██║██║╚██╗██║██╔══██║╚════██║    ██╔══╝  ██╔══██║██╔══██║██║ ███╔╝
+██║  ██║██║ ╚████║██║  ██║███████║    ██║     ██║  ██║██║  ██║██║███████╗
+╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝    ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝
+```
 
-- 🔭 I’m currently working on [ACE](https://github.com/AnasFaaiz/ACE)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=%24+whoami+%E2%86%92+full-stack+%2B+LLM+systems+engineer;%24+uname+-a+%E2%86%92+Arch%2C+Neovim%2C+tmux%2C+too+many+terminals;%24+ollama+serve+%E2%86%92+the+model+runs+on+my+machine;%24+git+push+%E2%86%92+upstream+at+Kestra" alt="" />
 
-- 🌱 I’m currently learning **Nextjs, javascript, dl concepts**
+<br/><br/>
 
-- 👨‍💻 All of my projects are available at [https://portfolio-anasfaaizs-projects.vercel.app/Homepage](https://portfolio-anasfaaizs-projects.vercel.app/Homepage)
+<a href="https://portfolio-anasfaaizs-projects.vercel.app"><img src="https://img.shields.io/badge/~/portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=0D1117" /></a>
+<a href="https://www.linkedin.com/in/syed-mohammad-anas-faaiz-838602288/"><img src="https://img.shields.io/badge/~/linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0D1117" /></a>
+<a href="https://x.com/syedanasfaaiz"><img src="https://img.shields.io/badge/~/x-0D1117?style=for-the-badge&logo=x&logoColor=22D3EE&labelColor=0D1117" /></a>
+<a href="https://kaggle.com/anasfaaiz"><img src="https://img.shields.io/badge/~/kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=22D3EE&labelColor=0D1117" /></a>
+<a href="mailto:syed.anasfaaiz@gmail.com"><img src="https://img.shields.io/badge/~/mail-0D1117?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0D1117" /></a>
 
-- 📝 I regularly write articles on [https://portfolio-anasfaaizs-projects.vercel.app/Blogs](https://portfolio-anasfaaizs-projects.vercel.app/Blogs)
+</div>
 
-- 💬 Ask me about **Nextjs, Neovim, MERN**
+<br/>
 
-- 📫 How to reach me (Linkedin) **www.linkedin.com/in/syed-anas-faaiz-838602288**
+```console
+anas@localhost:~$ neofetch
+```
+```
+        ▄▄▄▄▄▄▄▄▄▄▄            anas@localhost
+      ▄█████████████▄          ───────────────────────────────────────────
+     ███▀         ▀███         host ──── Hyderabad, IN · UTC+05:30
+    ███▀   ▄▄▄▄▄   ▀███        role ──── Final-year B.Tech CSE
+    ██▌   ██▀ ▀██   ▐██        spec ──── Data Engineering with AI
+    ██▌   ██   ██   ▐██        shell ─── zsh + custom `acego` function
+    ███▄  ▀██▄██▀  ▄███        editor ── Neovim
+     ███▄  ▀▀▀▀▀  ▄███         wm ────── Linux, tiling, dark everything
+      ▀█████████████▀          runtime ─ Ollama @ localhost:11434
+        ▀▀▀▀▀▀▀▀▀▀▀           uptime ── building since 2023
+                               status ── open to internships / junior roles
+                               ───────────────────────────────────────────
+                               ███ ███ ███ ███ ███ ███ ███ ███
+```
 
-- 📄 Know about my experiences [https://portfolio-anasfaaizs-projects.vercel.app/Homepage](https://portfolio-anasfaaizs-projects.vercel.app/Homepage)
+<br/>
 
+```console
+anas@localhost:~$ cat ./about.md
+```
 
+> I care about the layer underneath the API call.
+>
+> Quantised weights running on consumer hardware. Embeddings living next to the
+> relational data instead of in a separate service. Policy layers that decide whether
+> a prompt should reach a model at all. Anyone can call an endpoint — I'd rather know
+> what happens when you can't.
+>
+> Right now that means fine-tuning small models with QLoRA and serving them with zero
+> cloud dependency, shipping full-stack products end to end, and pushing fixes upstream.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/@anas_faaiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@anas_faaiz" height="30" width="40" /></a>
-<a href="https://twitter.com/syedanasfaaiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syedanasfaaiz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/syed-anas-faaiz-838602288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/syed-anas-faaiz-838602288" height="30" width="40" /></a>
-<a href="https://kaggle.com/anasfaaiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anasfaaiz" height="30" width="40" /></a>
-</p>
+<br/>
 
-[![Hits](https://u8views.com/api/v1/github/profiles/176373724/views/day-week-month-total-count.svg)](https://u8views.com/github/AnasFaaiz)
+```console
+anas@localhost:~$ tree ~/stack -L 2
+```
+```
+~/stack
+├── languages/
+│   ├── python          ██████████  primary
+│   ├── typescript      █████████░  primary
+│   ├── javascript      ████████░░
+│   ├── java            ██████░░░░
+│   ├── sql             ███████░░░
+│   └── bash            ███████░░░
+├── web/
+│   ├── next.js · react · nestjs · express · fastapi · django
+│   └── tailwind · prisma
+├── ai/
+│   ├── serving/        ollama · local inference · quantised models
+│   ├── training/       qlora · unsloth · colab
+│   ├── retrieval/      pgvector · chromadb · langchain · embeddings
+│   └── classical/      pandas · numpy · scikit-learn
+├── data/
+│   └── postgresql · mongodb · mysql · sqlite
+└── infra/
+    └── aws ec2 · docker · nginx · pm2 · linux · git · github actions
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anasfaaiz&show_icons=true&locale=en&layout=compact" alt="anasfaaiz" /></p>
+```console
+anas@localhost:~$ ls -lah ~/projects | head
+```
+```
+drwxr-xr-x  ACE/                 local AI assistant · fine-tuned gemma + ollama + CLI
+drwxr-xr-x  TraceVault/          engineering-trace platform · nestjs + prisma, live on ec2
+drwxr-xr-x  BugStory/            RAG over a repo → structured bug autopsies · watsonx
+drwxr-xr-x  SafeTalk/            policy layer that gates what reaches the LLM
+drwxr-xr-x  academigo/           AI learning assistant · django + langflow
+drwxr-xr-x  shorts-factory/      fully local video pipeline · n8n + whisper + ffmpeg
+drwxr-xr-x  smart-attendance/    QR + BLE + face recognition · research, in submission
+drwxr-xr-x  uidai-2026/          1.76M+ biometric records analysed
+-rw-r--r--  ...                  25 more
+```
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anasfaaiz&show_icons=true&locale=en" alt="anasfaaiz" /></p>
+<div align="center">
+<sub><b>pinned repos below ↓ — that's where the code is</b></sub>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anasfaaiz&" alt="anasfaaiz" /></p>
+<br/>
 
+```console
+anas@localhost:~$ git log --oneline --author="anas" --upstream
+```
+```
+* kestra      fix state-management in Flows + Namespaces (bulk selection)   [27k+ ★]
+* devops-daily  feat: search + version commands, argparse, tests
+* busez       feat: table-based alternative view
+* android-md  refactor: dashboard rebuilt in react + tailwind
+```
 
-<a href="https://github.com/AnasFaaiz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasFaaiz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<br/>
 
-<a href="https://u8views.com/github/AnasFaaiz"><img src="https://u8views.com/api/v1/github/profiles/176373724/views/day-week-month-total-count.svg"></a>
+```console
+anas@localhost:~$ systemctl status anas.service
+```
+```
+● anas.service — Syed Anas Faaiz
+   Loaded: loaded (/etc/hyderabad/anas.service; enabled)
+   Active: active (running)
 
-<!-- Daily Dev Card Code-->
-<h3 align="left">Daily.Dev Card:</h3>
-<a href="https://app.daily.dev/syedanasfaaiz"><img src="./devcard.png?type=wide&r=uo2"  height="400" width="356" align="center" alt="Syed Anas Faaiz's Dev Card"/></a>
+   ├─ building   local-first AI tooling
+   ├─ learning   distributed systems, model quantisation, k8s
+   ├─ shipping   full-stack products, front to database
+   └─ open to    internships · junior roles · remote or Hyderabad
+```
+
+<br/>
+
+<div align="center">
+
+```console
+anas@localhost:~$ gh api /users/AnasFaaiz --stats
+```
+
+<img src="https://github-readme-stats.vercel.app/api?username=AnasFaaiz&show_icons=true&hide_border=true&title_color=22d3ee&icon_color=22d3ee&text_color=8b949e&bg_color=0d1117" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasFaaiz&layout=compact&langs_count=8&hide_border=true&title_color=22d3ee&text_color=8b949e&bg_color=0d1117" height="170" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnasFaaiz&bg_color=0d1117&color=8b949e&line=22d3ee&point=ffffff&area=true&hide_border=true" width="96%" />
+
+<br/><br/>
+
+```console
+anas@localhost:~$ echo $CONTACT
+syed.anasfaaiz@gmail.com
+
+anas@localhost:~$ exit
+```
+
+<sub>ask me about local LLM serving · RAG in postgres · nestjs + prisma · neovim</sub>
+
+</div>
