@@ -36,7 +36,7 @@ anas@localhost:~$ neofetch
     ███▄  ▀██▄██▀  ▄███        editor ── Neovim
      ███▄  ▀▀▀▀▀  ▄███         wm ────── Linux, tiling, dark everything
       ▀█████████████▀          runtime ─ Ollama @ localhost:11434
-        ▀▀▀▀▀▀▀▀▀▀▀           uptime ── building since 2023
+        ▀▀▀▀▀▀▀▀▀▀▀            uptime ── building since 2023
                                status ── open to internships / junior roles
                                ───────────────────────────────────────────
                                ███ ███ ███ ███ ███ ███ ███ ███
